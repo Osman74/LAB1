@@ -1,0 +1,14 @@
+﻿  cls_AneuMeshLoader.cpp
+c:\users\shakhmanaev\documents\visual studio 2017\backup files\lab1\lab1\cls_aneumeshloader.cpp(11): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\shakhmanaev\documents\visual studio 2017\backup files\lab1\lab1\cls_aneumeshloader.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\shakhmanaev\documents\visual studio 2017\backup files\lab1\lab1\cls_aneumeshloader.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\shakhmanaev\documents\visual studio 2017\backup files\lab1\lab1\cls_aneumeshloader.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\shakhmanaev\documents\visual studio 2017\backup files\lab1\lab1\cls_aneumeshloader.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+  cls_MeshLoader.cpp
+c:\users\shakhmanaev\documents\visual studio 2017\backup files\lab1\lab1\cls_meshloader.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\shakhmanaev\documents\visual studio 2017\backup files\lab1\lab1\cls_meshloader.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\shakhmanaev\documents\visual studio 2017\backup files\lab1\lab1\cls_meshloader.cpp(120): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+c:\users\shakhmanaev\documents\visual studio 2017\backup files\lab1\lab1\main.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  LAB1.vcxproj -> C:\Users\shakhmanaev\Documents\Visual Studio 2017\Backup Files\LAB1\Debug\LAB1.exe
